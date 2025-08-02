@@ -1,0 +1,178 @@
+{
+  "services": [
+    {
+      "id": "service1",
+      "title": "Branding and Identity Design",
+      "description": "Our creative agency is a team of professionals focused on helping your brand grow.",
+      "features": [
+        {
+          "title": "UX Audits",
+          "content": "A UX audit evaluates the user experience (UX) of a website to find improvements."
+        },
+        {
+          "title": "Design Thinking",
+          "content": "Design thinking emphasizes empathy, iteration, and user-centric innovation."
+        },
+        {
+          "title": "Wireframing",
+          "content": "Wireframing lays out structure and navigation before visual design begins."
+        },
+        {
+          "title": "Aesthetics",
+          "content": "Aesthetics deal with the visual feel and emotional appeal of the web design."
+        },
+        {
+          "title": "Methodologies",
+          "content": "Our team follows proven methodologies to ensure high-quality outcomes."
+        }
+      ],
+      "prices": [
+        {
+          "amount": 15,
+          "title": "Tailored Designs for Every Budget",
+          "description": "Perfect for startups and small businesses."
+        },
+        {
+          "amount": 49,
+          "title": "Inspiring and Customized Design Solutions",
+          "description": "Ideal for growing brands."
+        },
+        {
+          "amount": 199,
+          "title": "Exquisite Design Concepts",
+          "description": "For enterprise clients needing full-service packages."
+        }
+      ],
+      "portfolio": [
+        {
+          "img": "/img/works/1.jpg",
+          "description": "Logo design for tech startup."
+        },
+        {
+          "img": "img/works/2.jpg",
+          "description": "Corporate identity for real estate firm."
+        },
+        {
+          "img": "img/works/3.jpg",
+          "description": "Packaging design for organic product line."
+        }
+      ]
+    },
+    {
+      "id": "service2",
+      "title": "Branding and Identity Design",
+      "description": "Our creative agency is a team of professionals focused on helping your brand grow.",
+      "features": [
+        {
+          "title": "UX Audits",
+          "content": "A UX audit evaluates the user experience (UX) of a website to find improvements."
+        },
+        {
+          "title": "Design Thinking",
+          "content": "Design thinking emphasizes empathy, iteration, and user-centric innovation."
+        },
+        {
+          "title": "Wireframing",
+          "content": "Wireframing lays out structure and navigation before visual design begins."
+        },
+        {
+          "title": "Aesthetics",
+          "content": "Aesthetics deal with the visual feel and emotional appeal of the web design."
+        },
+        {
+          "title": "Methodologies",
+          "content": "Our team follows proven methodologies to ensure high-quality outcomes."
+        }
+      ],
+      "prices": [
+        {
+          "amount": 15,
+          "title": "Tailored Designs for Every Budget",
+          "description": "Perfect for startups and small businesses."
+        },
+        {
+          "amount": 49,
+          "title": "Inspiring and Customized Design Solutions",
+          "description": "Ideal for growing brands."
+        },
+        {
+          "amount": 199,
+          "title": "Exquisite Design Concepts",
+          "description": "For enterprise clients needing full-service packages."
+        }
+      ],
+      "portfolio": [
+        {
+          "img": "/img/works/1.jpg",
+          "description": "Logo design for tech startup."
+        },
+        {
+          "img": "img/works/2.jpg",
+          "description": "Corporate identity for real estate firm."
+        },
+        {
+          "img": "img/works/3.jpg",
+          "description": "Packaging design for organic product line."
+        }
+      ]
+    },
+        {
+      "id": "service3",
+      "title": "Branding and Identity Design",
+      "description": "Our creative agency is a team of professionals focused on helping your brand grow.",
+      "features": [
+        {
+          "title": "UX Audits",
+          "content": "A UX audit evaluates the user experience (UX) of a website to find improvements."
+        },
+        {
+          "title": "Design Thinking",
+          "content": "Design thinking emphasizes empathy, iteration, and user-centric innovation."
+        },
+        {
+          "title": "Wireframing",
+          "content": "Wireframing lays out structure and navigation before visual design begins."
+        },
+        {
+          "title": "Aesthetics",
+          "content": "Aesthetics deal with the visual feel and emotional appeal of the web design."
+        },
+        {
+          "title": "Methodologies",
+          "content": "Our team follows proven methodologies to ensure high-quality outcomes."
+        }
+      ],
+      "prices": [
+        {
+          "amount": 15,
+          "title": "Tailored Designs for Every Budget",
+          "description": "Perfect for startups and small businesses."
+        },
+        {
+          "amount": 49,
+          "title": "Inspiring and Customized Design Solutions",
+          "description": "Ideal for growing brands."
+        },
+        {
+          "amount": 199,
+          "title": "Exquisite Design Concepts",
+          "description": "For enterprise clients needing full-service packages."
+        }
+      ],
+      "portfolio": [
+        {
+          "img": "/img/works/1.jpg",
+          "description": "Logo design for tech startup."
+        },
+        {
+          "img": "img/works/2.jpg",
+          "description": "Corporate identity for real estate firm."
+        },
+        {
+          "img": "img/works/3.jpg",
+          "description": "Packaging design for organic product line."
+        }
+      ]
+    }
+  ]
+}
